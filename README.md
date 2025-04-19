@@ -1,7 +1,4 @@
-# loan-prediction-using-ml
-Loan Prediction Project using Machine Learning techniques such as Logistic Regression, Decision Tree (CART), Naive Bayes, and K-Nearest Neighbors. Focused on automating loan approval decisions through data-driven models and feature selection techniques.
-
-# 🏦 Loan Approval Classification using Machine Learning
+# Loan Approval Classification using Machine Learning
 
 <p align="center">
   <img src="https://img.shields.io/badge/Project%20Type-Machine%20Learning-brightgreen" alt="Project Badge"/>
@@ -11,7 +8,7 @@ Loan Prediction Project using Machine Learning techniques such as Logistic Regre
 
 ---
 
-## 📚 Overview
+## Overview
 
 This project aims to streamline the **loan approval process** using supervised **Machine Learning algorithms**.  
 We developed and compared multiple models to classify loan applications into *Approved* or *Denied* categories, utilizing real-world financial applicant data.
@@ -20,26 +17,26 @@ By leveraging feature engineering, model selection techniques, and evaluation me
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
-- 📈 **Data Preprocessing**: Handling categorical variables (Ordinal & One-hot Encoding) and feature scaling.
-- 🔍 **Feature Selection**: 
+- **Data Preprocessing**: Handling categorical variables (Ordinal & One-hot Encoding) and feature scaling.
+- **Feature Selection**: 
   - **Backward Elimination** and **Forward Selection** based on **AIC score**.
   - Final reduced set: **12 high-impact predictors**.
-- 🤖 **Models Implemented**:
+- **Models Implemented**:
   - Logistic Regression
   - Decision Tree (CART)
   - Gaussian Naive Bayes
   - K-Nearest Neighbors (KNN)
-- 🎯 **Performance Metrics**:
+- **Performance Metrics**:
   - Accuracy, Precision, Recall, F1-Score, ROC-AUC
   - Confusion Matrices, Gains & Lift Charts, ROC Curves
-- 🏆 **Best Model**: 
+- **Best Model**: 
   - **K-Nearest Neighbors** with **k=16**, achieving **90%+ accuracy**.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```bash
 Loan-Approval-Classification-ML-Project/
@@ -62,11 +59,11 @@ Loan-Approval-Classification-ML-Project/
 | Logistic Regression | 88.7% | 76.4% | 71.8% | 74.0% | 82.7% |
 | Naive Bayes | 74.9% | 47.0% | 97.9% | 63.5% | 83.1% |
 
-✅ **KNN model outperformed other classifiers**, offering a balanced trade-off between precision and recall.
+**KNN model outperformed other classifiers**, offering a balanced trade-off between precision and recall.
 
 ---
 
-## 🔥 Skills Demonstrated
+## Skills Demonstrated
 
 - Machine Learning (Classification)
 - Feature Engineering & Dimensionality Reduction
@@ -76,7 +73,7 @@ Loan-Approval-Classification-ML-Project/
   
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the [MIT License](LICENSE).  
 Feel free to use, share, and modify it for academic and professional purposes.
@@ -85,6 +82,6 @@ Feel free to use, share, and modify it for academic and professional purposes.
 
 ## 📬 Contact
 
-For any queries or collaborations, feel free to connect on [LinkedIn](#).
+Feel free to connect on [LinkedIn](#) for any queries or collaborations.
 
 ---
