@@ -1,10 +1,6 @@
 # Loan Approval Classification using Machine Learning
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Project%20Type-Machine%20Learning-brightgreen" alt="Project Badge"/>
-  <img src="https://img.shields.io/badge/Domain-Finance-blue" alt="Domain Badge"/>
-  <img src="https://img.shields.io/badge/License-MIT-yellow" alt="License Badge"/>
-</p>
+![ChatGPT Image Apr 19, 2025, 10_20_28 AM](https://github.com/user-attachments/assets/88f2cbde-e637-4de6-9a55-9433b621ccff)
 
 ---
 
@@ -50,7 +46,7 @@ Loan-Approval-Classification-ML-Project/
 
 ---
 
-## 📊 Results Summary
+## Results Summary
 
 | Model | Accuracy | Precision | Recall | F1-Score | ROC-AUC |
 |:-----|:--------:|:---------:|:------:|:--------:|:-------:|
@@ -80,7 +76,7 @@ Feel free to use, share, and modify it for academic and professional purposes.
 
 ---
 
-## 📬 Contact
+## Contact
 
 Feel free to connect on [LinkedIn](#) for any queries or collaborations.
 
